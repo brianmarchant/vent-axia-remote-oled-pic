@@ -1,0 +1,70 @@
+[DEVICE]
+Name=P16F627A
+Clock=4000000
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=VentAxiaRemotePIC.c
+[USE_EEPROM]
+Value=0
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[FILES]
+File0=VentAxiaRemotePIC.c
+Count=1
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+File0=VentAxiaRemotePIC.c
+File1=.\C:\Program Files (x86)\MikroC-PRO-PIC\Defs\P16F627A.c
+Count=2
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=0
+[HEADER_PATH]
+Count=0
+[HEADERS]
+File0=oled.h
+Count=1
+[PLDS]
+Count=0
+[Useses]
+File0=UART
+File1=Lcd
+File2=Lcd_Constants
+File3=Button
+Count=4
+[EXPANDED_NODES]
+0=VentAxiaRemotePIC.mcppi
+1=Sources
+3=Header Files
+10=Output Files
+Count=4
+[LIB_EXPANDED_NODES]
+0=mikroE Libraries
+1=System Libraries
+2=Button
+267=Sprintl
+304=UART
+Count=6
+[PROGRAMMER_TYPE]
+Value=mikroE mikroProg
+[CODEGRIP_OPTIONS]
+CODEGRIP_SPEED=4
+CODEGRIP_VERIFY_AFTER=1
+CODEGRIP_SWBP_ENABLED=0
+CODEGRIP_PROGRAMMING_TYPE=Vpp first mode entry

@@ -1,0 +1,15 @@
+# Specify filepatterns you want git to ignore.
+*.asm
+*.bmk
+*.brk
+*.ini
+*.cof
+*.cp
+*.dbg
+*.dct
+*.dlt
+*.log
+*.lst
+*.mcl
+*.dic
+*callertable.txt
