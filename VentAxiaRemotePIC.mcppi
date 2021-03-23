@@ -26,7 +26,8 @@ ActiveImageIndex=-1
 [OPENED_FILES]
 File0=VentAxiaRemotePIC.c
 File1=.\C:\Program Files (x86)\MikroC-PRO-PIC\Defs\P16F627A.c
-Count=2
+File2=VentAxiaRemotePIC.asm
+Count=3
 [EEPROM]
 Count=0
 [ACTIVE_COMMENTS_FILES]
@@ -43,10 +44,10 @@ Count=1
 [PLDS]
 Count=0
 [Useses]
-File0=UART
-File1=Lcd
-File2=Lcd_Constants
-File3=Button
+File0=Lcd
+File1=Lcd_Constants
+File2=Button
+File3=UART
 Count=4
 [EXPANDED_NODES]
 0=VentAxiaRemotePIC.mcppi
@@ -58,6 +59,7 @@ Count=4
 0=mikroE Libraries
 1=System Libraries
 2=Button
+202=Lcd
 267=Sprintl
 304=UART
 Count=6
